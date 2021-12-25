@@ -4,6 +4,7 @@ Here Used Library and features:
 2. Retrofit library and gson Converter library for fetch the Json File from API and to convert into Java object.
 3. Jsuop library to encode the html text to plain text.
 4. Push notification(Cloud Messaging) by Google Firebase to interact with user.
+5. Webview to see the full news by clicking on any specific news.
 
 
 
